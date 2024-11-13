@@ -4,6 +4,3 @@
 [submodule "external/mamba_ssm"]
 	path = external/mamba_ssm
 	url = git@github.com:state-spaces/mamba.git
-[submodule "external/character-tokenizer"]
-	path = external/character-tokenizer
-	url = git@github.com:dariush-bahrami/character-tokenizer.git
