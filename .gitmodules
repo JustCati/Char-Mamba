@@ -1,0 +1,6 @@
+[submodule "external/causal-conv1d"]
+	path = external/causal-conv1d
+	url = git@github.com:Dao-AILab/causal-conv1d.git
+[submodule "external/mamba_ssm"]
+	path = external/mamba_ssm
+	url = git@github.com:state-spaces/mamba.git
